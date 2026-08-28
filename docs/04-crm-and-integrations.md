@@ -257,7 +257,7 @@ check, and the explicitly-named opt-in live fetcher.
 ## 4. NextOS Connect: FlexMLS Activity to CRM Sync
 
 **NextOS Connect is a separate product on its own hosting, distinct from the core NEXT
-listing platform.** It is Phil's own SaaS product, described here because it plugs into
+listing platform.** It is a separate NEXT SaaS product, described here because it plugs into
 the same GHL CRM backbone that the rest of the system uses. Where the sections
 above describe systems NEXT runs for its agents, NextOS Connect is a product an agent
 subscribes to and connects to their own accounts.

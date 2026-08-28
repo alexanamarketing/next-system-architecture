@@ -38,7 +38,7 @@ status board are live internally** and running today: they watch the production
 automation and post to the operations channel on a schedule. The **broader
 multi-tenant approval board is in development.** The engine, data model, and
 safety rules are built and tested, but the full web application (role-based
-sign-in for a broker versus an operator, and the live cloud data connection)
+sign-in for a broker versus a staff user, and the live cloud data connection)
 is not yet wired to real credentials. It currently runs as a local, no-secrets
 build. The approval concept is proven in tests; the production web surface is
 the next step.
